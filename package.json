@@ -29,5 +29,8 @@
     "jsonwebtoken": "^9.0.2",
     "mongodb": "^6.2.0",
     "mongoose": "^8.0.0"
+  },
+  "engines": {
+    "node": ">=14"
   }
 }
